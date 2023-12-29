@@ -171,10 +171,9 @@ symbol = " "
 symbol = " "
 
 [os]
-format = " [$symbol]($style) "
+format = "  [$symbol]($style) "
 style = "bold blue"
 disabled = false
 
 
 
-[prompt]
