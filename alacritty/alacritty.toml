@@ -1,0 +1,32 @@
+live_config_reload = true
+
+[window]
+"Values for `startup_mode`" = [ "Windowed" ]
+title = "Alacritty"
+dynamic_title = true
+
+  [window.dimensions]
+  columns = 0
+  lines = 0
+
+
+[font.normal]
+family = "JetBrainsMono NF"
+size = 14
+
+[font.hints.start]
+foreground = "#1d1f21"
+background = "#e9ff5e"
+
+
+[font.hints.end]
+foreground = "#e9ff5e"
+background = "#1d1f21"
+
+[shell]
+program = "C:\\Windows\\System32\\wsl.exe"
+args = ['--cd=$HOME']
+
+
+working_directory = "$HOME"
+
