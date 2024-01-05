@@ -1,0 +1,46 @@
+# keybind = ctrl+z=close_surface
+# keybind = ctrl+shift+down=new_split:down
+# keybind = ctrl+shift+right=new_split:right  
+# macos-option-as-alt=true
+keybind = shift+alt+super+right=goto_split:right
+keybind = shift+alt+super+left=goto_split:left
+keybind = shift+alt+super+down=goto_split:bottom
+keybind = shift+alt+super+up=goto_split:top
+
+cursor-style = block
+cursor-style-blink=true
+cursor-color = f5e0dc
+cursor-text = 11111b
+
+foreground=#cdd6f4
+background=#1e1e2e
+
+selection-background=#585b70
+selection-foreground=#eff1f5
+# black
+palette = 0=#45475a
+palette = 8=#45475a
+# red
+palette = 1=#f38ba8
+palette = 9=#f38ba8
+
+# green
+palette = 2=#a6e3a1
+palette = 10=#a6e3a1
+
+# yellow
+palette = 3=#f9e2af
+palette = 11=#f9e2af
+
+# blue
+palette = 4=#89b4fa
+palette = 12=#89b4fa
+# purple
+palette = 5=#f5c2e7
+palette = 13=#f5c2e7
+# aqua
+palette = 6=#94e2d5
+palette = 14=#94e2d5
+# white
+palette = 7=#bac2de
+palette = 15=#bac2de 
